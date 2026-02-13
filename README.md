@@ -1,0 +1,2 @@
+# syslog
+syslog-ng setup
